@@ -12,9 +12,22 @@ div {
 #main-header {
   /* Your code here! */
   color: red;
+  font-size: 22px;
 }
 
+body {
+  background-color: #00b3e6;
+}
+
+div {
+  width: 700px;
+  margin: auto;
+  font-family: "Helvetica Neue";
+  background-color: white;
+  padding: 30px;
+}
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
   /* Your code here! */
+  font-style: italic; 
 }
